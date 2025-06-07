@@ -1,0 +1,17 @@
+[
+ {
+    "test_case": "Validate Positive and Negative scenario",
+    "uname": "Tester",
+    "password": "test",
+    "product": "MyMoney",
+    "quantity": "2",
+    "customerName": "John Doe",
+    "street": "123 Main Street",
+    "city": "Pune",
+    "zip": "411001",
+    "cardType": "Visa",
+    "cardNumber": "4111111111111111",
+    "expiry": "12/26",
+    "exp_res": "Product Information"
+  }
+]
